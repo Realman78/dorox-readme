@@ -6,6 +6,10 @@
 
 Getting started with Dorox is as simple as creating an account. Upon registration, you're instantly granted access to a personal VM. Initially, your VM is set in a secure, internet-restricted mode to mitigate the risks associated with DDoS farms and ensure a safe, reliable service for all users.
 
+## Tech
+
+Dorox is completely written in Go (and some shell scripting)
+
 ## Exclusive Features
 
 - **Web and SSH Access**: Dorox leverages cutting-edge technology to provide direct VM access through a web interface or traditional SSH, catering to both modern and conventional preferences.
